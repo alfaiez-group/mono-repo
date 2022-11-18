@@ -1,6 +1,8 @@
 [submodule "apps/docs"]
 	path = apps/docs
 	url = https://github.com/alfaiez-group/app
+	branch = master
 [submodule "packages/acme-core"]
 	path = packages/acme-core
 	url = https://github.com/alfaiez-group/lib
+	branch = master
